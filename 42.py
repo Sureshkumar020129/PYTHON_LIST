@@ -1,0 +1,3 @@
+print(" Print the last 5 elements using slicing.")
+l1=[1,2,3,4,5,6,7,8,9,10]
+print(l1[-5:])
